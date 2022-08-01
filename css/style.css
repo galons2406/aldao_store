@@ -89,10 +89,6 @@ form {
 	color: white;
 }
 
-h2{
-	color: white;
-	text-decoration: non;
-}
 
 #cuerpo{
 	width: auto;
@@ -148,6 +144,11 @@ footer a {
 #titulo_footer{
 	text-align: center;
 	color: white;
+}
+
+h2 a{
+	color: white;
+	text-decoration: none;
 }
 
 i{
